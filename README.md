@@ -1,4 +1,6 @@
 # Final Project and Deployment
+## Live Demo
+[View the deployed project here](https://unbornmoral.github.io/feb-2025-final-project-and-deployment-Unbornmoral/)
 
 ## Objectives
 Build a fully functional web application.
